@@ -1,0 +1,21 @@
+DE,Media and Listings
+DS,inserter
+SP,I:\Peter\Xenoxxx\teletext\p600.tti
+PN,60000
+SC,0000
+PS,8000
+CT,8,T
+OL,0,        XENOFAX mpp             %H:%M.%S
+OL,1,MA]G Media and Listings             Px}0
+OL,3,                                  Q "###
+OL,4,C Radio and TV Listings. Mandatory      
+OL,5,C broadcasts and reviews of our leader's
+OL,6,C speeches.                             
+OL,8,  TV/Radio schedules................C601
+OL,9,  Do not miss mandatory broadcasts!     
+OL,11,  Reviews of state approved cinema..C620
+OL,12,  and literature.                       
+OL,14,  BBC channels......................C701
+OL,16,  Weather...........................C604
+OL,24,ANext     BBBC TV     CTriumphs    FHome
+FL,601,701,130,100,8ff,8ff

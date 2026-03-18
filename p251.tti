@@ -1,0 +1,29 @@
+DE,SABRE Pay
+DS,inserter
+SP,I:\Peter\Xenoxxx\teletext\p251.tti
+PN,25100
+SC,0000
+PS,8000
+CT,8,T
+OL,0,        XENOFAX %%#  %%a %d %%bC%H:%M.%S
+OL,1,MA]G SABRE PAY                      Px}0
+OL,3,                                  Q "###
+OL,4,F The Ministry of Civic Order brings you
+OL,5,F SABRE! This is not the tiger that eats
+OL,6,F your face. It is the AI that lets you 
+OL,7,F stuff your face.                      
+OL,9,  The Sentinal-AI Biometric Recognition 
+OL,10,  Enforcer which you all know for its   
+OL,11,  citizen safety monitoring is now the  
+OL,12,  way to earn and spend Citizen Kredits.
+OL,14,C Just present your face at any work    
+OL,15,C place, prison centre or kommissary.   
+OL,17,  For example, the toil of moving 200kg 
+OL,18,  of rubble at the tunnel renovation    
+OL,19,  projekt will earn enough CK to claim  
+OL,20,  a Borscht from any Soupin' Stevens    
+OL,21,  Stolovaya.                            
+OL,22,FM         "Work and Soup"              
+OL,23,  - "ONLY THE FALLEN ARE FREE FROM TOIL"
+OL,24,ANext   BPurity      CKulture   F   Home
+FL,252,400,500,100,8ff,8ff

@@ -1,0 +1,29 @@
+DE,Moscow weather - Open-Meteo.com
+DS,inserter
+SP,I:\Peter\Xenoxxx\teletext\moscowweather.tti
+PN,60400
+SC,0000
+PS,8080
+CT,8,T
+OL,28,@@H]`pCu_@|wKpZA`UB_wLs_w}ww]_}_wMD@
+OL,0,XXXXXXXXPERW_j KANAL   %d.%m  C %H:%M.%S
+OL,1,MG]A      POGODA W MOSKWE               
+OL,3,WZ
+OL,4,Q|||^\G      21 fewralq   Q^||||||||||||
+OL,6, Temperatura          min :  -9         
+OL,7,                      maks:  -1         
+OL,9, Dawleniq:                 1001 mm      
+OL,11, Weter:         zapadn&j        14 m/s  
+OL,12,WZ      pu0GSlab&j snegopad             
+OL,13,WZ      &6$                             
+OL,14,WZ      hm                              
+OL,15,WZ     0j50       (=           `t      
+OL,16,WZ     78<25      `&#d          bw      
+OL,17,WZ     5eq%5   n$ eppp% n$      jj      
+OL,18,WZ    utp~u5 h#i (-8- h#i      555     
+OL,19,WZ    =m'"m-5 h#ih-8-8mh#i     lssy$    
+OL,20,WZ    5*pp: 5 7##>,-,-.6##5   (rsss8    
+OL,21,WZ }x5u,,,,d5}x5}x5}x5}x5}x5}x55   5}x5 
+OL,22,WZ k55 8,0 5k5k5k5k5k5k55`p 5k5 
+OL,23,WZssssup5 upwssssssssssssssssssu5 uwssss
+FL,100,100,100,100,100,100

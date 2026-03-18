@@ -1,0 +1,24 @@
+DE,Marketplace
+DS,inserter
+SP,I:\Peter\Xenoxxx\teletext\p571.tti
+PN,57100
+SC,0000
+PS,8000
+CT,8,T
+OL,0,        XENOFAX mpp             %H:%M.%S
+OL,1,MA]G Traktor Parts 4-U              Px}0
+OL,3,                                   Q"###
+OL,4,C AGRO MINISTRY approved parts available
+OL,5, Cfrom your local commissary.           
+OL,6,C                                       
+OL,7,  MODEL       PART NAME           STATUS
+OL,8,  =====       =========           ======
+OL,10,  MTZ-80      GASKET SET       CIN STOCK
+OL,12,  MTZ-82      FUEL PUMP        C5-WK DEL
+OL,14,  UTB-650     KLUTCH PLATE     CIN STOCK
+OL,16,  DT-75       TRACK LINK    CURGENT ONLY
+OL,18,  ZETOR 8011  BRAKE CYL         CLIMITED
+OL,20,  JD2850      FLUTED STACK PIPECIN STOCK
+OL,22,DM]CExpress delivery: call MIN-AGRO 102 
+OL,24,ANext BRadio/TV     CNew Year      FHome
+FL,572,600,703,100,8ff,8ff

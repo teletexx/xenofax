@@ -1,0 +1,28 @@
+DE,Identity Kard Rescinding
+DS,inserter
+SP,I:\Peter\Xenoxxx\teletext\p122.tti
+PN,12200
+SC,0000
+PS,8000
+CT,8,T
+OL,0,        XENOFAX mpp             %H:%M.%S
+OL,1,MA]G Freedom from Plastic           Px}0
+OL,3,                                  Q "###
+OL,4,C The Ministry of Civic Order is proud  
+OL,5,C to announce the retirement of the     
+OL,6,C obsolete CitizenCard ID system.       
+OL,8,  Effective immediately the Sentinal-AI 
+OL,9,  Biometric Recognition Enforcer, SABRE 
+OL,10,  will be active.                       
+OL,12,G CONVENIENCE:FYour face is now your    
+OL,13,F permit. No more lost or stolen cards. 
+OL,14,F                                       
+OL,15,  EFFICIENCY:FReduced processing times  
+OL,16,F for official identification.          
+OL,17,F                                       
+OL,18,G INTEGRATION:FSeamlessly links into    
+OL,19,F your X-Trak vehicle transponder.      
+OL,21,C Please drop off your old ID card at a 
+OL,22,C designated Reclamation Hub.           
+OL,24,ANext  BDuties   CReporting   FPurity   
+FL,123,200,300,400,8ff,8ff

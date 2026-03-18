@@ -1,0 +1,26 @@
+DE,Official State Gazette
+DS,inserter
+SP,I:\Peter\Xenoxxx\teletext\p120.tti
+PN,12000
+SC,0000
+PS,8000
+CT,8,T
+OL,0,        XENOFAX mpp             %H:%M.%S
+OL,1,MA]G Official State Gazette         Px}0
+OL,3,                                  Q "###
+OL,4,C Gazette Journalist Disgraced          
+OL,6,  Journalist Benji Walker has been      
+OL,7,  sentenced to five years in Xemma      
+OL,8,  reeducation kolony for failing to     
+OL,9,  disclose the source of a fake news    
+OL,10,  story about Xenoxxx.                  
+OL,12,F Citizens are reminded that harbouring 
+OL,13,F kriminals spreading fabrikations about
+OL,14,F legitimate state operations is liable 
+OL,15,F to severe punishment.                 
+OL,17,F We can report that the journalist's   
+OL,18,F house and devices were examined       
+OL,19,F meticulously and an inkriminating     
+OL,20,F dossier was obtained.                 
+OL,24,ANext    BDuties   CTriumphs  FHome     
+FL,121,200,130,100,8ff,8ff

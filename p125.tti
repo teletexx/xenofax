@@ -1,0 +1,54 @@
+DE,Xenoxxx Doctrine
+DS,inserter
+SP,I:\Peter\Xenoxxx\teletext\p125.tti
+PN,12501
+SC,0001
+PS,8000
+CT,11,T
+OL,0,        XENOFAX mpp             %H:%M.%S
+OL,1,MA]G New Doktrine                   Px}0
+OL,3,                                  Q "###
+OL,4,C The Ministry of External Affairs has  
+OL,5,C issued a final dekree.GXenoxxxCis no  
+OL,6,C longer bound by the "International    
+OL,7,C Laws" of the old world order.         
+OL,8,C                                       
+OL,9,F A NEW LEGAL FRAMEWORK                 
+OL,10,  Effektive immediately, all previous   
+OL,11,  treaties, akkords, and konventions are
+OL,12,  declared VOID. These reliks were      
+OL,13,G designed by weak nations to konstrain 
+OL,14,  the strong. Xenoxxx recognizes only   
+OL,15,  the law of National Will.             
+OL,17,F MESSAGE TO OUR CITIZENS               
+OL,18,  In this new age, the strength and     
+OL,19,G unity of our nation are our guiding   
+OL,20,  principles. Our focus is on building a
+OL,21,  prosperous and secure future.         
+OL,23,     C           Doktrine key points--->
+OL,24,ANext  BDuties   CReporting   FPurity   
+FL,126,200,300,400,8ff,8ff
+PN,12502
+SC,0002
+PS,8000
+CT,11,T
+OL,0,        wxTED Header mpp        %H:%M.%S
+OL,1,MA]G New Doktrine                   Px}0
+OL,3,G                                 Q "###
+OL,4,F POWER OVER PAPER:                     
+OL,5,G                                       
+OL,6,C *GSOVEREIGNTY: We do not answer to the
+OL,7,    UN or the ECHR.                     
+OL,9,GC*GFORCE: Our borders are defined by   
+OL,10,G   strength, not by maps.              
+OL,11,G                                       
+OL,12,GC*GDEBT: All international obligations 
+OL,13,G   are permanently erased.             
+OL,14,G                                       
+OL,15,GC*GFREE TRADE all trade is free.       
+OL,16,    Nations must supply any goods and   
+OL,17,    services required by Xenoxxx for    
+OL,18,G   free.                               
+OL,20,FM"Strength and Unity - Xenoxxx"        
+OL,23,G   C          Doktrine announcement--->
+OL,24,ANext  BDuties   CReporting   FPurity   

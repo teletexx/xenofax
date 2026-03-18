@@ -1,0 +1,18 @@
+DE,Citizens Duties and Economy
+DS,inserter
+SP,I:\Peter\Xenoxxx\teletext\p200.tti
+PN,20000
+SC,0000
+PS,8000
+CT,8,T
+OL,0,        XENOFAX mpp             %H:%M.%S
+OL,1,MA]G Citizens' Duties               Px}0
+OL,3,                                  Q "###
+OL,4,  Kurfew hours                      C201
+OL,6,  Electricity Schedule              C202
+OL,8,  Restricted travel zones           C205
+OL,10,  Mandatory Kommunity service       C210
+OL,12,  State Depot Rations and Supplies  C250
+OL,14,  Economic Stability Indices        C280
+OL,24,ANext   BReporting   CPurity    F   Next
+FL,201,300,400,201,8ff,8ff

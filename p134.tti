@@ -1,0 +1,56 @@
+DE,Iodine drive
+DS,inserter
+SP,I:\Peter\Xenoxxx\teletext\p134.tti
+PN,13401
+SC,0001
+PS,8000
+CT,11,T
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,0,        XENOFAX %%#  %%a %d %%bC%H:%M.%S
+OL,1,MA]G Iodine Drive: Kelp for Heroes  Px}0
+OL,2,                       k                
+OL,3,                                  Q "###
+OL,4,C Hostile powers have enacted a cowardly
+OL,5,C blockade on medical supplies. To      
+OL,6,C ensure our brave border peace-keepers 
+OL,7,C survive enforcement injuries,         
+OL,8,C Xenoxxx is now SELF-RELIANT in iodine 
+OL,9,C production.                           
+OL,11,  CITIZEN KELP COLLECTION:FAll able-    
+OL,12,F bodied residents must report to       
+OL,13,F coastal sectors. Collected seaweed is 
+OL,14,F to be delivered to the BURNING PITS   
+OL,15,F for chemical extraction.              
+OL,17,  ANTISEPTIC STOCKS:FIodine is vital for
+OL,18,F wound care management at the front    
+OL,19, Flines.                                
+OL,20,F                                       
+OL,21,  COLLECTION QUOTA:F50kg per household  
+OL,22,F weekly. Failure is a lack of spirit.  
+OL,23,         Safety warnings follow----->1/2
+OL,24,ANext  BDuties   CReporting   FPurity   
+FL,135,200,300,400,8ff,8ff
+PN,13402
+SC,0002
+PS,8000
+CT,12,T
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,0,        XENOFAX %%#  %%a %d %%bC%H:%M.%S
+OL,1,MA]G Iodine Drive: Kelp for Heroes  Px}0
+OL,3,                                  Q "###
+OL,4,  SAFETY WARNINGS:FKelp incineration    
+OL,5,F produces "Purifying Vapours". A strict
+OL,6,  2KM EXCLUSION ZONEFis in effect around
+OL,7,F every pit.                            
+OL,9, FEntry into the noxious smoke will     
+OL,10,F result in immediate lung recalibration
+OL,11,F\and The Orakle AI has confirmed that  
+OL,12, Fthe yellow haze is a sign ofGPROGRESS.
+OL,14,F                                       
+OL,17,      FM"Seaweed Saves Lives,           
+OL,19,       MF Smoke is Strength"            
+OL,20,FM"Seaweed Saves Lives, Smoke is Stre"  
+OL,22,F                                       
+OL,23,                Kelp collection----->2/2
+OL,24,ANext  BDuties   CReporting   FPurity   
+FL,135,200,150,200,8ff,8ff

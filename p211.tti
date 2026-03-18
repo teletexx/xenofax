@@ -1,0 +1,51 @@
+DE,Tunnel project
+DS,inserter
+SP,I:\Peter\Xenoxxx\teletext\p211.tti
+PN,21101
+SC,0001
+PS,8000
+CT,8,T
+OL,0,        XENOFAX %%#  %%a %d %%bC%H:%M.%S
+OL,1,MA]G Tunnel RSG9 Renovation         Px}0
+OL,3,W                                 Q "###
+OL,4,WGTunnel 
+OL,5,W                        GOne    
+OL,6,W             
+OL,7,W                 GTunnel 
+OL,8,W     GTwo    
+OL,9,W                                   
+OL,10,WGTunnel 
+OL,11,W                       GThree  
+OL,12,W   Q W Q   W              
+OL,13,W    Q W Q   W           
+OL,14,W        Q W Q   W             
+OL,15,QGTunnel 
+OL,16,Q                       GFour   
+OL,17,Q                  
+OL,18,Q             G               
+OL,19,Q          G               
+OL,20,Q                G               
+OL,21,Q        G               
+OL,22,QD        C    B    AG              
+OL,23,                Work schedule follows-->
+OL,24,ANext   BPurity      CKulture   F   Home
+FL,212,400,500,100,8ff,8ff
+PN,21102
+SC,0002
+PS,8000
+CT,8,T
+OL,0,        XENOFAX %%#  %%a %d %%bC%H:%M.%S
+OL,1,MA]G Tunnel RSG9 Renovation         Px}0
+OL,3,W                                 Q "###
+OL,4,  New work order from the Tunnel Project
+OL,5,  Committee. Renovation of Tunnel Four  
+OL,6,  has started following "The Incident". 
+OL,8,  Haulers from Residential Sectors 5 and
+OL,9,  6 are required to report for rubble   
+OL,10,  clearing duty at Tunnel Adit A.       
+OL,11,  Citizen Kredits will be awarded for   
+OL,12,  40 hours of work per week. CK will be 
+OL,13,  deducted for each hour short of the   
+OL,14,  target.                               
+OL,23,                   Tunnel map follows-->
+OL,24,ANext   BPurity      CKulture   F   Home

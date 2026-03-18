@@ -1,0 +1,33 @@
+DE,MRG SYSTEMS LTD.       
+DS,inserter
+SP,E:\dev\AITeletext\p100.tti
+PN,70000
+SC,0000
+PS,8000
+CT,10,C
+OL,0,        Xenofax mpp             %H:%M.%S
+OL,1,D]W                                     
+OL,2,Wsssssssssssssssssssssssssssssssssssssss
+OL,3,D]W                                     
+OL,4,D]                                      
+OL,5,D]W              |0 `~}0          
+OL,6,D]W          j j   + ~' +}          
+OL,7,D]W              x    #          
+OL,8,D]W         j5j5 /!  |||          
+OL,9,D]W             ou               
+OL,10,D]W        j5 51  "4 ot x?          
+OL,11,D]W               * "o?!          
+OL,12,D]W                                     
+OL,13,D]G M          SYSTEMS LTD.             
+OL,14,D]W                                     
+OL,15,D]W                                     
+OL,16,Wsssssssssssssssssssssssssssssssssssssss
+OL,17,D]W                                     
+OL,18,D]C M  INFORMATION DISPLAY SYSTEMS      
+OL,19,D]W                                     
+OL,20,D]W                                     
+OL,21,Wsssssssssssssssssssssssssssssssssssssss
+OL,22,D]C                                     
+OL,23,D]C                                     
+OL,24,A News  BIndex 
+FL,102,101,8ff,8ff,8ff,8ff                         

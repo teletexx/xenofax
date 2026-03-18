@@ -1,0 +1,18 @@
+DE,Surveillance and Reporting
+DS,inserter
+SP,I:\Peter\Xenoxxx\teletext\p300.tti
+PN,30000
+SC,0000
+PS,8000
+CT,8,T
+OL,0,        XENOFAX mpp             %H:%M.%S
+OL,1,MA]G Informing Improper Activities  Px}0
+OL,3,                                  Q "###
+OL,4,C Handy links for citizens to report and
+OL,5,C whistleblow undesirable activities.   
+OL,7,  "Watch Thy neighbour" reality showC301
+OL,9,  Most Wanted Dissidents            C320
+OL,11,  Citizen Merit and Social Credits  C330
+OL,13,  USB Stick amnesty                 C350
+OL,24,ANext   BPurity      CIdeology   F Home 
+FL, 400,400,500,100,8ff,8ff

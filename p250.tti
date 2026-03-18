@@ -1,0 +1,27 @@
+DE,Dept of Supply
+DS,inserter
+SP,I:\Peter\Xenoxxx\teletext\p250.tti
+PN,25000
+SC,0000
+PS,8000
+CT,8,T
+OL,0,        XENOFAX %%#  %%a %d %%bC%H:%M.%S
+OL,1,MA]G Dept. of State Provisioning    Px}0
+OL,3,                                  Q "###
+OL,4,F The Ministry of Plenty is pleased to  
+OL,5,F announce the following surplus items  
+OL,6,F available at all State outlets for    
+OL,7,F holders of Grade B (Blue) Ration Kards
+OL,9,CFPTS PRODUCT       F             ESTOKK
+OL,10, F10GRecycled filtration glovesF   BHIGH
+OL,11,C    Durable for all labour             
+OL,13, F12GUtility kordage 20m       F  STABLE
+OL,14,C    Strong and versatile repairs       
+OL,16, F 8GGoujon Paste 500g        BUNLIMITED
+OL,17,C    Komplete and balanced food         
+OL,19, F25GStandardised Uniform Dye     A]GLOW
+OL,20,C    Maintain required appearance       
+OL,22,FM"Abundance through Discipline"        
+OL,23,  - "ONLY THE FALLEN ARE FREE FROM TOIL"
+OL,24,ANext   BPurity      CKulture   F   Home
+FL,251,400,500,100,8ff,8ff

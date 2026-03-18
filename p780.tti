@@ -1,0 +1,45 @@
+DE,Carousel test mode
+DS,inserter
+SP,I:\Peter\Xenoxxx\teletext\p780.tti
+PN,78001
+SC,0001
+PS,8000
+CT,4,T
+OL,0,XXXXXXXXXENOFAX Engineering   C hh:nn.ss
+OL,1,RA                                  G1/2
+OL,3,RC     GREEN GRAPHICS ON ODD            
+OL,5,RE      0  0                            
+OL,6,R      `>|>t                            
+OL,7,RG     7?//75                           
+OL,8,R       "!#                             
+OL,9,RI                                      
+OL,11,RK                                      
+OL,13,RM                                      
+OL,15,RO             *                        
+OL,17,RQ                                      
+OL,19,RS                                      
+OL,20,             *                          
+OL,21,RU                                      
+OL,22,             `                          
+OL,23,RW          ///%                        
+OL,24,A  Next    BLink2   CLink4  FLink4      
+FL,781,100,100,100,8ff,8ff
+PN,78002
+SC,0002
+PS,8000
+CT,4,T
+OL,0,        XENOFAX Engineering     %H:%M.%S
+OL,1,                                     2/2
+OL,2,CB     Yellow text on even              
+OL,4,CD                                      
+OL,6,CF                                      
+OL,8,CH                                      
+OL,10,CJ                                      
+OL,12,CL                                      
+OL,14,CN                                      
+OL,16,CP                                      
+OL,18,CR                                      
+OL,20,CT                                      
+OL,22,CV                                      
+OL,24,A  Next    BLink2   CLink4  FLink4      
+FL,781,100,100,100,8ff,8ff

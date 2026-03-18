@@ -1,0 +1,23 @@
+DE,Elektrik Schedule
+DS,inserter
+SP,I:\Peter\Xenoxxx\teletext\p202.tti
+PN,20200
+SC,0000
+PS,8000
+CT,8,T
+OL,0,        XENOFAX mpp             %H:%M.%S
+OL,1,MA]G Elektricity Scheduling         Px}0
+OL,3,                                  Q "###
+OL,4, CRESOURCE OPTIMISATION CYKLE 44        
+OL,6,  Diskonnect all non-essential terminals
+OL,7,  during the following times:           
+OL,8,C                                       
+OL,9,M Sector A (Industrial): A02:00-06:00   
+OL,12,M Sector B (Residential):A18:00-22:00   
+OL,14, C                                      
+OL,15,M Sector C (Govt/Admin): BExempt        
+OL,16,  is active and your movement plan is up
+OL,19,MFPATRIOTIC COOPERATION IS REQUIRED     
+OL,21,MFFOR GRID STABILITY                    
+OL,24,ANext   BReporting   CPurity    F   Home
+FL,205,300,400,100,8ff,8ff

@@ -1,0 +1,26 @@
+DE,Restricted zones
+DS,inserter
+SP,I:\Peter\Xenoxxx\teletext\p205.tti
+PN,20500
+SC,0000
+PS,8000
+CT,8,T
+OL,0,        XENOFAX mpp             %H:%M.%S
+OL,1,MA]G Restricted Zones               Px}0
+OL,3,                                  Q "###
+OL,4,MCSEKTOR 7: ENVIRONMENTAL STABILISATION 
+OL,7,F Solidarity Street, Heroes Square,     
+OL,8,F Progress Place and the vicinity of    
+OL,9,F Viro-lab 2 in the industrial zone are 
+OL,10,F closed while Bio-Remediation          
+OL,11,F technicians investigate.              
+OL,13,A]GA two kilometre exclusion zone is    
+OL,14,A]Gin place around the Event Horizon    
+OL,15,A]GNuclear Power Facility. This is in   
+OL,16,A]Gplace until the potential for        
+OL,17,A]Gcatastrophe has diminished.          
+OL,19,AFatal error: Unexpected T`ECHO, expecti
+OL,20,AC:/xampp/htdocs/Error/syntax.php line 4
+OL,21,AInspiring message not generated        
+OL,24,ANext   BReporting   CPurity    F   Home
+FL,210,300,400,100,8ff,8ff
