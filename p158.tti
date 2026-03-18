@@ -1,6 +1,6 @@
 DE,Snowmobile
 DS,inserter
-SP,C:\Users\tamar\Documents\peter\xenofax\p158.tti
+SP,C:\Users\tamar\Documents\xenofax\p158.tti
 PN,15801
 SC,0001
 PS,8000
@@ -36,7 +36,7 @@ SC,0002
 PS,8000
 CT,8,T
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
-OL,0,        wxTED Header mpp        %H:%M.%S
+OL,0,        XENOFAX %%#  %%a %d %%bC%H:%M.%S
 OL,1,MA]G  Operation: Reclaim the Tundra Px}0
 OL,2,                       k                
 OL,3,                                  Q "###
