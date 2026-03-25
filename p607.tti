@@ -1,7 +1,7 @@
-DE,Image to Teletext converter
+DE,Snapper sunset
 DS,inserter
 SP,C:\Users\tamar\Documents\xenofax\p607.tti
-PN,1ff00
+PN,60700
 SC,0000
 PS,8000
 CT,8,T
@@ -31,3 +31,4 @@ OL,21,W^W]T
 OL,22,W^W]T
 OL,23,W^W]T
 OL,24,W^W]T
+FL,608,8ff,8ff,8ff,8ff,8ff
