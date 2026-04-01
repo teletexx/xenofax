@@ -1,8 +1,8 @@
 DE,Strait of Hormuz
 DS,inserter
 SP,C:\Users\tamar\Documents\xenofax\p162.tti
-PN,16201
-SC,0001
+PN,16200
+SC,0000
 PS,8000
 CT,11,T
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
@@ -25,10 +25,9 @@ OL,15,F
 OL,16,F The Orakle AI has calculated that     
 OL,17,F foreign maritime laws do not apply to 
 OL,18,F the waters of THE LEADER'S interest.  
-OL,19,  High command deems that the Strait is 
-OL,20,  "insufficiently socialist" for        
-OL,21,  Xenoxxx intervention.                 
+OL,20,  High Command deems that the Strait is 
+OL,21,  "insufficiently socialist" for        
+OL,22,  Xenoxxx intervention.                 
 OL,23,                                       @
 OL,24,ANext  BDuties   CReporting   FPurity   
 FL,163,200,300,400,8ff,8ff
-
